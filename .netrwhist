@@ -1,3 +1,12 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =1
-let g:netrw_dirhist_1='/home/bert/Documentos/projects/estrutura-de-dados/cap1/control-structures'
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/home/bert/Documentos/projects/estrutura-de-dados/cap2/classes'
+let g:netrw_dirhist_3='/home/bert/Documentos/projects/estrutura-de-dados/cap2/arrow-function'
+let g:netrw_dirhist_2='/home/bert/Documentos/projects/estrutura-de-dados/cap2'
+let g:netrw_dirhist_1='/home/bert/Documentos/projects/estrutura-de-dados/cap2/classes'
+let g:netrw_dirhist_0='/home/bert/Documentos/projects/estrutura-de-dados/cap2'
+let g:netrw_dirhist_9='/home/bert/Documentos/projects/estrutura-de-dados'
+let g:netrw_dirhist_8='/home/bert/Documentos/projects'
+let g:netrw_dirhist_7='/home/bert/Documentos'
+let g:netrw_dirhist_6='/home/bert/Documentos/projects/estrutura-de-dados/cap2/classes'
+let g:netrw_dirhist_5='/home/bert/Documentos/projects/estrutura-de-dados/cap1/functions'
