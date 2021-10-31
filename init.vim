@@ -8,7 +8,10 @@ source ~/.config/nvim/general/generalSettings.vim
 source ~/.config/nvim/general/themesSettings.vim
 
 " Plugins settings
-" vim airline
 source ~/.config/nvim/pluginsSettings/vimAirlines.vim
-" coc nvim
 source ~/.config/nvim/pluginsSettings/cocNvim.vim
+source ~/.config/nvim/pluginsSettings/rainbowBrackets.vim
+
+"key maping
+source ~/.config/nvim/keyMaping.vim
+
